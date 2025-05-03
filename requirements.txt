@@ -1,7 +1,6 @@
 #https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 pyrofork==2.3.45 
 TgCrypto
-pyromod==1.5
 humanize
 schedule
 APscheduler
